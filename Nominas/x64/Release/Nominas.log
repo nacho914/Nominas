@@ -1,0 +1,25 @@
+﻿  stdafx.cpp
+  CDlgBuscarEmp.cpp
+c:\users\uno\desktop\nominas-master-2354fd15e5efd7739745ae80afe0416ac03dc82e\nominas\nominas.h(7): fatal error C1083: Cannot open include file: 'SQLAPI.h': No such file or directory
+  CDlgBuscarMov.cpp
+c:\users\uno\desktop\nominas-master-2354fd15e5efd7739745ae80afe0416ac03dc82e\nominas\nominas.h(7): fatal error C1083: Cannot open include file: 'SQLAPI.h': No such file or directory
+  CDlgEmpleado.cpp
+c:\users\uno\desktop\nominas-master-2354fd15e5efd7739745ae80afe0416ac03dc82e\nominas\nominas.h(7): fatal error C1083: Cannot open include file: 'SQLAPI.h': No such file or directory
+  CDlgMenu.cpp
+c:\users\uno\desktop\nominas-master-2354fd15e5efd7739745ae80afe0416ac03dc82e\nominas\nominas.h(7): fatal error C1083: Cannot open include file: 'SQLAPI.h': No such file or directory
+  CDlgMovimientos.cpp
+c:\users\uno\desktop\nominas-master-2354fd15e5efd7739745ae80afe0416ac03dc82e\nominas\nominas.h(7): fatal error C1083: Cannot open include file: 'SQLAPI.h': No such file or directory
+  CDlgPass.cpp
+c:\users\uno\desktop\nominas-master-2354fd15e5efd7739745ae80afe0416ac03dc82e\nominas\nominas.h(7): fatal error C1083: Cannot open include file: 'SQLAPI.h': No such file or directory
+  CDlgReporte.cpp
+c:\users\uno\desktop\nominas-master-2354fd15e5efd7739745ae80afe0416ac03dc82e\nominas\cdlgreporte.cpp(4): warning C4603: '_CRT_SECURE_NO_WARNINGS': macro is not defined or definition is different after precompiled header use
+  c:\users\uno\desktop\nominas-master-2354fd15e5efd7739745ae80afe0416ac03dc82e\nominas\cdlgreporte.cpp(4): note: Add macro to precompiled header instead of defining here
+  c:\users\uno\desktop\nominas-master-2354fd15e5efd7739745ae80afe0416ac03dc82e\nominas\cdlgreporte.cpp(6): note: use of precompiled header
+c:\users\uno\desktop\nominas-master-2354fd15e5efd7739745ae80afe0416ac03dc82e\nominas\nominas.h(7): fatal error C1083: Cannot open include file: 'SQLAPI.h': No such file or directory
+  Nominas.cpp
+c:\users\uno\desktop\nominas-master-2354fd15e5efd7739745ae80afe0416ac03dc82e\nominas\nominas.cpp(5): warning C4603: '_MAIN_': macro is not defined or definition is different after precompiled header use
+  c:\users\uno\desktop\nominas-master-2354fd15e5efd7739745ae80afe0416ac03dc82e\nominas\nominas.cpp(5): note: Add macro to precompiled header instead of defining here
+  c:\users\uno\desktop\nominas-master-2354fd15e5efd7739745ae80afe0416ac03dc82e\nominas\nominas.cpp(10): note: use of precompiled header
+c:\users\uno\desktop\nominas-master-2354fd15e5efd7739745ae80afe0416ac03dc82e\nominas\nominas.h(7): fatal error C1083: Cannot open include file: 'SQLAPI.h': No such file or directory
+  NominasDlg.cpp
+c:\users\uno\desktop\nominas-master-2354fd15e5efd7739745ae80afe0416ac03dc82e\nominas\nominas.h(7): fatal error C1083: Cannot open include file: 'SQLAPI.h': No such file or directory

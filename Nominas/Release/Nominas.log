@@ -1,0 +1,14 @@
+﻿  stdafx.cpp
+  CDlgBuscarEmp.cpp
+  CDlgBuscarMov.cpp
+  CDlgEmpleado.cpp
+  CDlgMenu.cpp
+  CDlgMovimientos.cpp
+  CDlgPass.cpp
+  CDlgReporte.cpp
+  Nominas.cpp
+  NominasDlg.cpp
+  Generating code
+  All 487 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Nominas.vcxproj -> C:\Users\uno\Desktop\Nominas-master-2354fd15e5efd7739745ae80afe0416ac03dc82e\Release\Nominas.exe

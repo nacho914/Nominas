@@ -1,0 +1,14 @@
+1-type_datonomina.sql
+2-table_valores.sql
+3-table_tipo.sql
+4-table_rol.sql
+5-table_password.sql
+6-table_movimientos.sql
+7-table_empleados.sql
+8-function_actualizaempleado.sql
+9-function_actualizamovimiento.sql
+10-function_insertaempleado.sql
+11-function_insertamovimiento.sql
+12-function_obtenernomina.sql
+13-function_obtenernomina_date.sql
+14-inserts_datos.sql

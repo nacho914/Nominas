@@ -1,0 +1,4 @@
+Parametro uno: ip,puerto@basededatos;	parametro dos: usuario de base de datos;	 parametro tres contraseña;
+127.0.0.1,5434@Nominas
+postgres
+password
