@@ -1,2 +1,2 @@
 # Nominas
-Proyecto creado para practicar
+Proyecto creado para realizar nominas de forma simple
